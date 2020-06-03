@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website of Diah Komala</title>
+    <link>https://diahkm.github.io/</link>
+    <description>Recent content on Website of Diah Komala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diahkm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://diahkm.github.io/archives/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://diahkm.github.io/about/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/about/</guid>
+      <description>Diah Komala   Halo, nama saya Diah Komala, sering dipanggil Mala.</description>
+    </item>
+    
+    <item>
+      <title>Paduan Sintaks Markdown</title>
+      <link>https://diahkm.github.io/post/sintaks-markdown/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/post/sintaks-markdown/</guid>
+      <description>&lt;p&gt;Contoh sintaks Markdown dasar yang dapat digunakan dalam file konten Hugo, juga menunjukkan apakah elemen HTML dasar didekorasi dengan CSS dalam tema Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portofolio</title>
+      <link>https://diahkm.github.io/portofolio/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/portofolio/</guid>
+      <description>Halaman ini berisi project yang pernah saya kerjakan dan yang sedang dikerjakan.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://diahkm.github.io/privacy-policy/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/privacy-policy/</guid>
+      <description>This blog does not share personal information with third parties nor do we store any information about your visit to this blog other than to analyze and optimize your content and reading experience through the use of cookies.</description>
+    </item>
+    
+    <item>
+      <title>Notasi Matematika</title>
+      <link>https://diahkm.github.io/post/notasi-matematika/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/post/notasi-matematika/</guid>
+      <description>&lt;p&gt;Notasi matematika dalam web proyek Hugo dapat diaktifkan dengan menggunakan JavaScript libraries pihak ketiga.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kaya Konten</title>
+      <link>https://diahkm.github.io/post/kaya-konten/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/post/kaya-konten/</guid>
+      <description>&lt;p&gt;Hugo memiliki beberapa &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; untuk membuat konten yang bagus, bersama dengan &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; dan serangkaian Shortcode sederhana yang memungkinkan versi statis dan tanpa-JS dari berbagai embed media sosial.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dukungan Emoji</title>
+      <link>https://diahkm.github.io/post/dukungan-emoji/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/post/dukungan-emoji/</guid>
+      <description>&lt;p&gt;Emoji dapat diaktifkan dalam proyek Hugo dalam beberapa cara.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

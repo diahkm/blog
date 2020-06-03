@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matematika on Website of Diah Komala</title>
+    <link>https://diahkm.github.io/tags/matematika/</link>
+    <description>Recent content in matematika on Website of Diah Komala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diahkm.github.io/tags/matematika/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notasi Matematika</title>
+      <link>https://diahkm.github.io/post/notasi-matematika/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/post/notasi-matematika/</guid>
+      <description>&lt;p&gt;Notasi matematika dalam web proyek Hugo dapat diaktifkan dengan menggunakan JavaScript libraries pihak ketiga.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

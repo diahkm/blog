@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>css on Website of Diah Komala</title>
+    <link>https://diahkm.github.io/tags/css/</link>
+    <description>Recent content in css on Website of Diah Komala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diahkm.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paduan Sintaks Markdown</title>
+      <link>https://diahkm.github.io/post/sintaks-markdown/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/post/sintaks-markdown/</guid>
+      <description>&lt;p&gt;Contoh sintaks Markdown dasar yang dapat digunakan dalam file konten Hugo, juga menunjukkan apakah elemen HTML dasar didekorasi dengan CSS dalam tema Hugo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

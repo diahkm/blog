@@ -1,0 +1,75 @@
+baseurl = "https://diahkm.github.io"
+languageCode = "id-id"
+defaultContentLanguage = "id"
+title = "Website of Diah Komala"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+timeout = 60000
+
+disqusShortname = "diahkm-github-io"
+googleAnalytics = "UA-168512473-1"
+
+[params]
+title = "I'm Diah Komala"
+author = "Diah Komala"
+description = "Call me Mala"
+profilePicture = "images/mala.png"
+keywords = ""
+favicon = "favicons/"
+customCss = ["css/custom.css"]
+mainSections = ["post"]
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/diahkm"
+
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "twitter"
+url = "https://www.twitter.com/diahkm_"
+
+[[params.socialIcons]]
+icon = "fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/diahkm_"
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "mailto:diahkomala1212@gmail.com"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[menu.main]]
+  name = "Portofolio"
+  weight = 300
+  identifier = "portofolio"
+  url = "/portofolio/"

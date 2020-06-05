@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emoji on Website of Diah Komala</title>
+    <link>https://diahkm.github.io/tags/emoji/</link>
+    <description>Recent content in emoji on Website of Diah Komala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diahkm.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dukungan Emoji</title>
+      <link>https://diahkm.github.io/post/dukungan-emoji/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/post/dukungan-emoji/</guid>
+      <description>&lt;p&gt;Emoji dapat diaktifkan dalam proyek Hugo dalam beberapa cara.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

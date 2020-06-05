@@ -1,6 +1,6 @@
 +++
 author = "Diah Komala"
-title = "Paduan Sintaks Markdown"
+title = "Panduan Sintaks Markdown"
 date = "2020-06-03"
 description = "Sintaks dasar markdown dan format elemen HTML."
 tags = [

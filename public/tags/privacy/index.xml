@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on Website of Diah Komala</title>
+    <link>https://diahkm.github.io/tags/privacy/</link>
+    <description>Recent content in privacy on Website of Diah Komala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diahkm.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kaya Konten</title>
+      <link>https://diahkm.github.io/post/kaya-konten/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://diahkm.github.io/post/kaya-konten/</guid>
+      <description>&lt;p&gt;Hugo memiliki beberapa &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; untuk membuat konten yang bagus, bersama dengan &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; dan serangkaian Shortcode sederhana yang memungkinkan versi statis dan tanpa-JS dari berbagai embed media sosial.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
